@@ -219,7 +219,7 @@ This show the result showing that taunts after giving a simple arithmetic operat
 
 
 ![Screenshot2]
-<img width="595" height="607" alt="image" src="https://github.com/user-attachments/assets/9863971c-2fe7-4e38-ae1c-db97815d418b" />
+<img width="590" height="600" alt="image" src="https://github.com/user-attachments/assets/d48c8d86-82a0-42df-bb5f-bb6272ffd2af" />
 This shows the arithmetic operation of adding two numbers (10+9)
 
 ![Screenshot3]
